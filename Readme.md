@@ -16,6 +16,7 @@ conda activate pygame_env
 pip install pygame
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 pip install matplotlib ipython
+python3 ./main.py
 ```
 
 ## 🚀 Features
